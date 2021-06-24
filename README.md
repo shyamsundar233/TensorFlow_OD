@@ -11,7 +11,7 @@ Install tensorflow 2.0 in macOS: https://www.pyimagesearch.com/2019/12/09/how-to
 
 ** Start training the model:  
 
-                ```$ python train.py```
+                $ python train.py
 
 ** It will save the detector.h5 , plot.png , test_images.txt
 

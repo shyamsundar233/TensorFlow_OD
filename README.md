@@ -19,13 +19,21 @@ Install tensorflow 2.0 in macOS: https://www.pyimagesearch.com/2019/12/09/how-to
 ** It will save the detector.h5 , plot.png , test_images.txt
 
 
+
+
  ```detector.h5``` : Serialized model after training
+ 
+ 
  
 
  ```plot.png``` : Training history plot graph
  
+ 
+ 
 
  ```test_images.txt``` : Contains the names of the images in our testing set
+ 
+ 
  
 
 ** Then , test or make prediction using the previously trained model:

@@ -11,7 +11,7 @@ Install tensorflow 2.0 in macOS: https://www.pyimagesearch.com/2019/12/09/how-to
 
 ** Start training the model:  
 
-                $ python train.py
+$ python train.py
 
 ** It will save the detector.h5 , plot.png , test_images.txt
 
@@ -23,4 +23,4 @@ Install tensorflow 2.0 in macOS: https://www.pyimagesearch.com/2019/12/09/how-to
 
 ** Then , test or make prediction using the previously trained model:
 
-                ```$ python predict.py --input [either the path of a single image or test_imges.txt]```
+$ python predict.py --input [either the path of a single image or test_imges.txt]

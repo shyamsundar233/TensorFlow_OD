@@ -3,22 +3,25 @@
 ## Tensorflow installation
 
 Install tensorflow 2.0 in ubuntu:  https://www.pyimagesearch.com/2019/12/09/how-to-install-tensorflow-2-0-on-ubuntu/
+
 Install tensorflow 2.0 in macOS: https://www.pyimagesearch.com/2019/12/09/how-to-install-tensorflow-2-0-on-macos/
     
 ## Usage
 
+<br />
+
 ** Using terminal, from your root directory ``` TensorFlowOD/```,
 
+<br />
 
 ** Start training the model:  
 
 
-    $ python train.py
+    $ python train.py 
     
+<br />
 
 ** It will save the detector.h5 , plot.png , test_images.txt
-
-
 
 
  ```detector.h5``` : Serialized model after training
@@ -34,7 +37,7 @@ Install tensorflow 2.0 in macOS: https://www.pyimagesearch.com/2019/12/09/how-to
  ```test_images.txt``` : Contains the names of the images in our testing set
  
  
- 
+<br />
 
 ** Then , test or make prediction using the previously trained model:
 
